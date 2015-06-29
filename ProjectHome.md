@@ -1,0 +1,1 @@
+A complex events stream processing engine written using Java and the JVM Languages.  Promises quick processing of high volume of fast streaming event data. Rules can be applied on the incoming stream to filter and process events.
